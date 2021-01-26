@@ -1,0 +1,23 @@
+h1 {
+  background-color: #ADC7BE;
+  align-items: center;
+  font-size: 50px;
+  color: black;
+  width: auto;
+}
+
+.container {
+  background-color: #ADC7BE;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  width: 500px;
+  height: 50px;
+  font-size: 50px;
+}
